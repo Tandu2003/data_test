@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "task": "To check email",
+      "completed": true
+    },
+    {
+      "task": "UI task web page",
+      "completed": true
+    },
+    {
+      "task": "Learn javascript basic",
+      "completed": true
+    },
+    {
+      "task": "Learn HTML Advance",
+      "completed": true
+    },
+    {
+      "task": "Medical App UI",
+      "completed": true
+    },
+    {
+      "task": "Learn Java",
+      "completed": true
+    }
+  ]
+}
